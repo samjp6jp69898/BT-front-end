@@ -8,5 +8,5 @@ export default defineNuxtConfig({
     '@pinia/nuxt'
   ],
 
-  // ssr: true,
+  ssr: true,
 })
